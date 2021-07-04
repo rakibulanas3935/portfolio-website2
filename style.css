@@ -20,7 +20,7 @@ h2{
 }
 .heading{
     display: flex;
-    background-image: url(/images/exp-bg.png);
+    background-image: url(./images/exp-bg.png);
     background-repeat: no-repeat;
 }
 .half-width{
@@ -51,7 +51,7 @@ a{
 }
 .heading1{
     display: flex;
-    background-image: url(/images/dream-bg.png);
+    background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
