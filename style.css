@@ -49,3 +49,9 @@ a{
     border-radius: 6%;
     margin-top: 100px;
 }
+.heading1{
+    display: flex;
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
